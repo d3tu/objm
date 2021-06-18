@@ -1,0 +1,9 @@
+{
+  "name": "objm",
+  "version": "0.0.3",
+  "description": "Object manager.",
+  "main": "index.js",
+  "keywords": ["object", "obj", "manager"],
+  "author": "Paralax Team",
+  "license": "MIT"
+}
